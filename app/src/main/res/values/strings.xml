@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Fragmento Principal</string>
+    <string name="second_fragment_label">Listado Peliculas</string>
+    <string name="detalle_fragment_label">Detalle Pelicula</string>
+    <string name="next">Listado</string>
+    <string name="previous">Anterior</string>
+
+    <string name="hello_first_fragment">Bienvenidos a la aplicacion</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

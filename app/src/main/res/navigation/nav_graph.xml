@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/principalFragment">
+
+    <fragment
+        android:id="@+id/principalFragment"
+        android:name="com.example.myapplication.fragments.PrincipalFragment"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_principal">
+
+        <action
+            android:id="@+id/action_FirstFragment_to_SecondFragment"
+            app:destination="@id/ListadoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ListadoFragment"
+        android:name="com.example.myapplication.fragments.ListadoFragment"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_listado">
+
+        <action
+            android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/principalFragment" />
+        <action
+            android:id="@+id/action_ListadoFragment_to_DetalleFragment"
+            app:destination="@id/DetalleFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/DetalleFragment"
+        android:name="com.example.myapplication.fragments.DetalleFragment"
+        android:label="@string/detalle_fragment_label"
+        tools:layout="@layout/fragment_detalle">
+        <action
+            android:id="@+id/action_DetalleFragment_to_ListadoFragment"
+            app:destination="@id/ListadoFragment" />
+    </fragment>
+</navigation>

@@ -1,0 +1,703 @@
+[
+  {
+    "Nombre": "2 Fast 2 Furious",
+    "Valoracion": 2.4,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "28 Days Later",
+    "Valoracion": 3.9,
+    "Descripcion": "R - horror"
+  },
+  {
+    "Nombre": "A Guy Thing",
+    "Valoracion": 2,
+    "Descripcion": "PG-13 - rom comedy"
+  },
+  {
+    "Nombre": "A Man Apart",
+    "Valoracion": 2.1,
+    "Descripcion": "R - action/adventure"
+  },
+  {
+    "Nombre": "A Mighty Wind",
+    "Valoracion": 4,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Agent Cody Banks",
+    "Valoracion": 2.9,
+    "Descripcion": "PG - action/adventure"
+  },
+  {
+    "Nombre": "Alex & Emma",
+    "Valoracion": 1.8,
+    "Descripcion": "PG-13 - rom comedy"
+  },
+  {
+    "Nombre": "American Wedding",
+    "Valoracion": 2.5,
+    "Descripcion": "R - comedy"
+  },
+  {
+    "Nombre": "Anger Management",
+    "Valoracion": 3.1,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Anything Else",
+    "Valoracion": 3.2,
+    "Descripcion": "R - rom comedy"
+  },
+  {
+    "Nombre": "Bad Boys II",
+    "Valoracion": 1.9,
+    "Descripcion": "R - action/adventure"
+  },
+  {
+    "Nombre": "Bad Santa",
+    "Valoracion": 3.8,
+    "Descripcion": "R - comedy"
+  },
+  {
+    "Nombre": "Basic",
+    "Valoracion": 2.2,
+    "Descripcion": "R - suspense"
+  },
+  {
+    "Nombre": "Beyond Borders",
+    "Valoracion": 2.4,
+    "Descripcion": "R - drama"
+  },
+  {
+    "Nombre": "big fish",
+    "Valoracion": 3.9,
+    "Descripcion": "PG-13 - drama"
+  },
+  {
+    "Nombre": "Biker Boyz",
+    "Valoracion": 2.2,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "Boat Trip",
+    "Valoracion": 1.5,
+    "Descripcion": "R - comedy"
+  },
+  {
+    "Nombre": "Bringing Down the House",
+    "Valoracion": 2.9,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Brother Bear",
+    "Valoracion": 3,
+    "Descripcion": "G - animated"
+  },
+  {
+    "Nombre": "Bruce Almighty",
+    "Valoracion": 3.2,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Bulletproof Monk",
+    "Valoracion": 2.4,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "Cabin Fever",
+    "Valoracion": 2.7,
+    "Descripcion": "R - horror"
+  },
+  {
+    "Nombre": "Calendar Girls",
+    "Valoracion": 3.4,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Charlie's Angles: Full Throttle",
+    "Valoracion": 2.7,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "Cheaper by the Dozen",
+    "Valoracion": 2.6,
+    "Descripcion": "PG - comedy"
+  },
+  {
+    "Nombre": "Cold Creek Manor",
+    "Valoracion": 2.5,
+    "Descripcion": "R - suspense"
+  },
+  {
+    "Nombre": "Cold Mountain",
+    "Valoracion": 3.9,
+    "Descripcion": "R - drama"
+  },
+  {
+    "Nombre": "Confidence",
+    "Valoracion": 3.1,
+    "Descripcion": "R - drama"
+  },
+  {
+    "Nombre": "Cradle 2 the Grave",
+    "Valoracion": 2.3,
+    "Descripcion": "R - action/adventure"
+  },
+  {
+    "Nombre": "Daddy Day Care",
+    "Valoracion": 2,
+    "Descripcion": "PG - comedy"
+  },
+  {
+    "Nombre": "Daredevil",
+    "Valoracion": 2.6,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "Dark Blue",
+    "Valoracion": 2.9,
+    "Descripcion": "R - drama"
+  },
+  {
+    "Nombre": "Darkness Falls",
+    "Valoracion": 1.6,
+    "Descripcion": "PG-13 - horror"
+  },
+  {
+    "Nombre": "Deliver Us From Eva",
+    "Valoracion": 3.1,
+    "Descripcion": "R - rom comedy"
+  },
+  {
+    "Nombre": "Dickie Roberts, Former Child Star",
+    "Valoracion": 2.6,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Down With Love",
+    "Valoracion": 3.2,
+    "Descripcion": "PG-13 - rom comedy"
+  },
+  {
+    "Nombre": "Dr. Seuss' The Cat in the Hat",
+    "Valoracion": 1.9,
+    "Descripcion": "PG - fantasy"
+  },
+  {
+    "Nombre": "Dreamcatcher",
+    "Valoracion": 2.1,
+    "Descripcion": "R - sci-fi"
+  },
+  {
+    "Nombre": "Dumb and Dumberer",
+    "Valoracion": 1.5,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Duplex",
+    "Valoracion": 2.6,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Dysfunktional Family",
+    "Valoracion": 2.9,
+    "Descripcion": "R - documentary"
+  },
+  {
+    "Nombre": "Elf",
+    "Valoracion": 3.5,
+    "Descripcion": "PG - comedy"
+  },
+  {
+    "Nombre": "Final Destination 2",
+    "Valoracion": 2.3,
+    "Descripcion": "R - horror"
+  },
+  {
+    "Nombre": "Finding Nemo",
+    "Valoracion": 4.6,
+    "Descripcion": "G - animated"
+  },
+  {
+    "Nombre": "Freaky Friday",
+    "Valoracion": 3.7,
+    "Descripcion": "PG - comedy"
+  },
+  {
+    "Nombre": "Freddy vs. Jason",
+    "Valoracion": 2.4,
+    "Descripcion": "R - horror"
+  },
+  {
+    "Nombre": "From Justin to Kelly",
+    "Valoracion": 1.7,
+    "Descripcion": "PG - musical"
+  },
+  {
+    "Nombre": "Gigli",
+    "Valoracion": 1.5,
+    "Descripcion": "R - rom comedy"
+  },
+  {
+    "Nombre": "Gods and Generals",
+    "Valoracion": 2.1,
+    "Descripcion": "PG-13 - drama"
+  },
+  {
+    "Nombre": "Good Boy!",
+    "Valoracion": 2.9,
+    "Descripcion": "PG - comedy"
+  },
+  {
+    "Nombre": "Gothika",
+    "Valoracion": 2.4,
+    "Descripcion": "R - horror"
+  },
+  {
+    "Nombre": "Grind",
+    "Valoracion": 1.8,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Head of State",
+    "Valoracion": 2.8,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Holes",
+    "Valoracion": 3.6,
+    "Descripcion": "PG - drama"
+  },
+  {
+    "Nombre": "Hollywood Homicide",
+    "Valoracion": 2.4,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "Honey",
+    "Valoracion": 2.5,
+    "Descripcion": "PG-13 - drama"
+  },
+  {
+    "Nombre": "House of 1000 Corpses",
+    "Valoracion": 1.8,
+    "Descripcion": "R - horror"
+  },
+  {
+    "Nombre": "How to Deal",
+    "Valoracion": 2.7,
+    "Descripcion": "PG-13 - drama"
+  },
+  {
+    "Nombre": "How to Lose a Guy in 10 Days",
+    "Valoracion": 2.5,
+    "Descripcion": "PG-13 - rom comedy"
+  },
+  {
+    "Nombre": "Identity",
+    "Valoracion": 3,
+    "Descripcion": "R - suspense"
+  },
+  {
+    "Nombre": "In the Cut",
+    "Valoracion": 2.7,
+    "Descripcion": "R - suspense"
+  },
+  {
+    "Nombre": "Intolerable Cruelty",
+    "Valoracion": 3.4,
+    "Descripcion": "PG-13 - rom comedy"
+  },
+  {
+    "Nombre": "It Runs in the Family",
+    "Valoracion": 2.8,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Jeepers Creepers 2",
+    "Valoracion": 2.2,
+    "Descripcion": "R - horror"
+  },
+  {
+    "Nombre": "Johnny English",
+    "Valoracion": 2.8,
+    "Descripcion": "PG - comedy"
+  },
+  {
+    "Nombre": "Just Married",
+    "Valoracion": 2.1,
+    "Descripcion": "PG-13 - rom comedy"
+  },
+  {
+    "Nombre": "Kangaroo Jack",
+    "Valoracion": 1.5,
+    "Descripcion": "PG - comedy"
+  },
+  {
+    "Nombre": "Kill Bill - Vol 1",
+    "Valoracion": 4.2,
+    "Descripcion": "R - action/adventure"
+  },
+  {
+    "Nombre": "Lara Croft, Tomb Raider",
+    "Valoracion": 2.4,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "Le Divorce",
+    "Valoracion": 3,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Legally Blonde 2",
+    "Valoracion": 2.5,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Looney Tunes: Back in Action",
+    "Valoracion": 3,
+    "Descripcion": "PG - comedy"
+  },
+  {
+    "Nombre": "Lost in Translation",
+    "Valoracion": 4.7,
+    "Descripcion": "R - drama"
+  },
+  {
+    "Nombre": "Love Actually",
+    "Valoracion": 3.5,
+    "Descripcion": "R - rom comedy"
+  },
+  {
+    "Nombre": "Love Don't Cost a Thing",
+    "Valoracion": 2.3,
+    "Descripcion": "PG-13 - rom comedy"
+  },
+  {
+    "Nombre": "Malibu's Most Wanted",
+    "Valoracion": 2.2,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Marci X",
+    "Valoracion": 1.8,
+    "Descripcion": "R - comedy"
+  },
+  {
+    "Nombre": "Master and Commander",
+    "Valoracion": 4.4,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "Matchstick Men",
+    "Valoracion": 3.4,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Mona Lisa Smile",
+    "Valoracion": 2.8,
+    "Descripcion": "PG-13 - drama"
+  },
+  {
+    "Nombre": "Monster",
+    "Valoracion": 3.2,
+    "Descripcion": "R - drama"
+  },
+  {
+    "Nombre": "My Boss's Daughter",
+    "Valoracion": 1.7,
+    "Descripcion": "PG-13 - rom comedy"
+  },
+  {
+    "Nombre": "Mystic River",
+    "Valoracion": 4.5,
+    "Descripcion": "R - drama"
+  },
+  {
+    "Nombre": "National Security",
+    "Valoracion": 1.9,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "Old School",
+    "Valoracion": 2.7,
+    "Descripcion": "R - comedy"
+  },
+  {
+    "Nombre": "Once Upon A Time in Mexico",
+    "Valoracion": 3.2,
+    "Descripcion": "R - action/adventure"
+  },
+  {
+    "Nombre": "Open Range",
+    "Valoracion": 3.6,
+    "Descripcion": "R - western"
+  },
+  {
+    "Nombre": "Out of Time",
+    "Valoracion": 3.3,
+    "Descripcion": "PG-13 - suspense"
+  },
+  {
+    "Nombre": "Paycheck",
+    "Valoracion": 2.4,
+    "Descripcion": "PG-13 - sci-fi"
+  },
+  {
+    "Nombre": "Peter Pan",
+    "Valoracion": 3.4,
+    "Descripcion": "PG - fantasy"
+  },
+  {
+    "Nombre": "Phone Booth",
+    "Valoracion": 3.1,
+    "Descripcion": "R - suspense"
+  },
+  {
+    "Nombre": "Piglet's Big Movie",
+    "Valoracion": 3.2,
+    "Descripcion": "G - animated"
+  },
+  {
+    "Nombre": "Pirates of the Caribbean",
+    "Valoracion": 3.4,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "Radio",
+    "Valoracion": 2.7,
+    "Descripcion": "PG - drama"
+  },
+  {
+    "Nombre": "Rugrats Go Wild",
+    "Valoracion": 2.8,
+    "Descripcion": "PG - animated"
+  },
+  {
+    "Nombre": "Runaway Jury",
+    "Valoracion": 3.3,
+    "Descripcion": "PG-13 - suspense"
+  },
+  {
+    "Nombre": "S.W.A.T.",
+    "Valoracion": 2.8,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "Scary Movie 3",
+    "Valoracion": 2.5,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Seabiscuit",
+    "Valoracion": 4.1,
+    "Descripcion": "PG-13 - drama"
+  },
+  {
+    "Nombre": "Secondhand Lions",
+    "Valoracion": 2.9,
+    "Descripcion": "PG - drama"
+  },
+  {
+    "Nombre": "Shanghai Knights",
+    "Valoracion": 3.1,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "Sinbad: Legend of the Seven Seas",
+    "Valoracion": 2.8,
+    "Descripcion": "PG - animated"
+  },
+  {
+    "Nombre": "Something's Gotta Give",
+    "Valoracion": 3.8,
+    "Descripcion": "PG-13 - rom comedy"
+  },
+  {
+    "Nombre": "Spy Kids 3-D: Game Over",
+    "Valoracion": 3.3,
+    "Descripcion": "PG - action/adventure"
+  },
+  {
+    "Nombre": "Stuck on You",
+    "Valoracion": 3.3,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Tears of the Sun",
+    "Valoracion": 2.7,
+    "Descripcion": "R - action/adventure"
+  },
+  {
+    "Nombre": "Terminator 3:Rise of the Machines",
+    "Valoracion": 3.6,
+    "Descripcion": "R - action/adventure"
+  },
+  {
+    "Nombre": "The Core",
+    "Valoracion": 2.7,
+    "Descripcion": "PG-13 - sci-fi"
+  },
+  {
+    "Nombre": "The Fighting Temptations",
+    "Valoracion": 3.2,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "The Haunted Mansion",
+    "Valoracion": 2.3,
+    "Descripcion": "PG - comedy"
+  },
+  {
+    "Nombre": "The Hulk",
+    "Valoracion": 3.1,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "The Hunted",
+    "Valoracion": 2.7,
+    "Descripcion": "R - action/adventure"
+  },
+  {
+    "Nombre": "The In-Laws",
+    "Valoracion": 2.2,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "The Italian Job",
+    "Valoracion": 3.3,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "The Jungle Book 2",
+    "Valoracion": 2.8,
+    "Descripcion": "G - animated"
+  },
+  {
+    "Nombre": "The Last Samurai",
+    "Valoracion": 3.4,
+    "Descripcion": "R - drama"
+  },
+  {
+    "Nombre": "The League of Extraordinary Gentlemen",
+    "Valoracion": 2.2,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "The Life of David Gale",
+    "Valoracion": 2.3,
+    "Descripcion": "R - suspense"
+  },
+  {
+    "Nombre": "The Lizze McGuire Movie",
+    "Valoracion": 2.9,
+    "Descripcion": "PG - comedy"
+  },
+  {
+    "Nombre": "The Lord of the Rings III",
+    "Valoracion": 4.6,
+    "Descripcion": "PG-13 - fantasy"
+  },
+  {
+    "Nombre": "The Matrix Reloaded",
+    "Valoracion": 3.5,
+    "Descripcion": "R - action/adventure"
+  },
+  {
+    "Nombre": "The Matrix Revolutions",
+    "Valoracion": 2.5,
+    "Descripcion": "R - action/adventure"
+  },
+  {
+    "Nombre": "The Medallion",
+    "Valoracion": 2.3,
+    "Descripcion": "PG-13 - action/adventure"
+  },
+  {
+    "Nombre": "The Missing",
+    "Valoracion": 3.4,
+    "Descripcion": "R - western"
+  },
+  {
+    "Nombre": "The Order",
+    "Valoracion": 1.5,
+    "Descripcion": "R - suspense"
+  },
+  {
+    "Nombre": "The Real Cancun",
+    "Valoracion": 2,
+    "Descripcion": "R - documentary"
+  },
+  {
+    "Nombre": "The Recruit",
+    "Valoracion": 3.1,
+    "Descripcion": "PG-13 - suspense"
+  },
+  {
+    "Nombre": "The Rundown",
+    "Valoracion": 3,
+    "Descripcion": "PG-13 - action"
+  },
+  {
+    "Nombre": "The School of Rock",
+    "Valoracion": 4.3,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "The Texas Chainsaw Massacre",
+    "Valoracion": 2.1,
+    "Descripcion": "PG-13 - horror"
+  },
+  {
+    "Nombre": "Timeline",
+    "Valoracion": 2.1,
+    "Descripcion": "R - action"
+  },
+  {
+    "Nombre": "Tupac: Resurrection",
+    "Valoracion": 3.5,
+    "Descripcion": "R - documentary"
+  },
+  {
+    "Nombre": "Under the Tuscan Sun",
+    "Valoracion": 3.2,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "Underworld",
+    "Valoracion": 2.3,
+    "Descripcion": "R - action"
+  },
+  {
+    "Nombre": "Uptown Girls",
+    "Valoracion": 1.9,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "View from the Top",
+    "Valoracion": 2.2,
+    "Descripcion": "PG-13 - comedy"
+  },
+  {
+    "Nombre": "What a Girl Wants",
+    "Valoracion": 2.7,
+    "Descripcion": "PG - comedy"
+  },
+  {
+    "Nombre": "Willard",
+    "Valoracion": 3,
+    "Descripcion": "PG-13 - horror"
+  },
+  {
+    "Nombre": "Wrong Turn",
+    "Valoracion": 1.6,
+    "Descripcion": "R - horror"
+  },
+  {
+    "Nombre": "X2: X-Men United",
+    "Valoracion": 3.6,
+    "Descripcion": "PG-13 - action"
+  }
+
+]
